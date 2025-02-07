@@ -13,6 +13,12 @@ Welcome to my personal portfolio website. This platform showcases my projects, s
 - [Contact](#contact)
 - [License](#license)
 
+##images##
+![Screenshot 2025-02-07 171753](https://github.com/user-attachments/assets/f9145028-629d-4bb1-aca6-44d6250b2358)
+![Screenshot 2025-02-07 171813](https://github.com/user-attachments/assets/16d2638c-df4c-4c4b-8af2-69f395cad593)
+![Screenshot 2025-02-07 171831](https://github.com/user-attachments/assets/d32dd2fd-4374-467d-a82c-d9fcfd021139)
+![Screenshot 2025-02-07 171847](https://github.com/user-attachments/assets/a1b67d8b-20fc-4dc6-8e72-1c4c697376a5)
+
 ## About Me
 
 I am an aspiring Java Developer with expertise in Java technologies and web development. Currently pursuing a B.Tech in Computer Science Engineering from Hitech Institute of Technology, Bhubaneswar. Passionate about building robust applications and solving complex problems through code.
