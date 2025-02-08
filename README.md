@@ -1,5 +1,5 @@
 # Jyoti Ranjan Sahoo's Portfolio
-here is my codepen project link- https://codepen.io/Jyoti-Ranjan-Sahoo-Jrs/pen/vEBoXyO
+here is my codepen project link- https://codepen.io/Jyoti-Ranjan-Sahoo-Jrs/full/vEBoXyO
 
 Welcome to my personal portfolio website. This platform showcases my projects, skills, and experiences as a Java Developer.
 
