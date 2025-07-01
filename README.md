@@ -1,5 +1,5 @@
 # Jyoti Ranjan Sahoo's Portfolio
-here is my codepen project link- https://codepen.io/Jyoti-Ranjan-Sahoo-Jrs/full/vEBoXyO
+here is my vercel project link- https://portfolio-sigma-orcin-66.vercel.app/
 
 Welcome to my personal portfolio website. This platform showcases my projects, skills, and experiences as a Java Developer.
 
